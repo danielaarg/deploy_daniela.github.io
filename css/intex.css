@@ -4,10 +4,10 @@ h1{
     font-size : 50px;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: blueviolet;
+    color: rgb(57, 6, 106);
 
 }
-    .lista { background-color: blanchedalmond; }
+    .lista { background-color: rgb(250, 231, 197); }
 
 img{
     
@@ -27,7 +27,8 @@ body{
         }   
       
     .p1{  color: black;   }
-    logotipo  { margin-right: -690px !important; 
+
+    .logotipo  { margin-right: -690px; 
         margin: 50px;
         padding: 20px;
         border-width: 20px; }
